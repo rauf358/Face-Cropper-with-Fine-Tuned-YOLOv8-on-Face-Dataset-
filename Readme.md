@@ -1,6 +1,3 @@
-Here is a professional, highly polished `README.md` file for your Face Cropper project. You can copy and paste this directly into your GitHub repository.
-
----
 
 # 📸 Real-Time YOLOv8 Face Cropper
 
